@@ -27,5 +27,9 @@ void siswa::setid(int pid) {
 	id = pid;
 }
 
+void orang::setnama(string pNama) {
+	nama = pNama;
+}
+
 
 
