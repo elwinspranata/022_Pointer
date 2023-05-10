@@ -31,5 +31,8 @@ void orang::setnama(string pNama) {
 	nama = pNama;
 }
 
+int main()
+{
 
+}
 
