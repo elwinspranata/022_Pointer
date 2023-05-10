@@ -18,6 +18,6 @@ int main()
 	mahasiswa mhs;
 	setNama(mhs, "joko Kumat");
 	cout << endl;
-
+	system("pause");
 	return 0;
 }
